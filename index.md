@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
